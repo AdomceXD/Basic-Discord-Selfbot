@@ -6,3 +6,5 @@ Install discord.py selfbot library:
 
 Run:
 ```python3 main.py```
+
+**WARNING: USING SELFBOTS ON DISCORD IS AGAINST TOS AND PUTS YOUR ACCOUNT IN DANGER. USE AT YOUR RISK.**
