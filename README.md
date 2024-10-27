@@ -1,5 +1,5 @@
 # Basic-Discord-Selfbot
-Basic Discord Selfbot
+Basic Discord Selfbot for **Linux**
 
 Install discord.py selfbot library:
 ```https://pypi.org/project/discord.py-self/```
